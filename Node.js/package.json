@@ -1,0 +1,11 @@
+{
+  "name": "studying",
+  "version": "1.0.0",
+  "description": "studying node.js",
+  "main": "hellonode1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
